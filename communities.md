@@ -6,3 +6,4 @@
 - [exercism.io](https://exercism.io/)
 - [delta.chat](https://delta.chat/)
 - [yocto project](https://www.yoctoproject.org/)
+- [neo4j](https://community.neo4j.com/)
