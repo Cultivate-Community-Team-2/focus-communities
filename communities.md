@@ -39,7 +39,7 @@
 
   Code/Web | Discussion | Governance | Other Note(s)
   -------- | ---------- | ---------- | -------------
-  TBD      | TBD        | TBD        | 
+  cgit (https://git.yoctoproject.org/)      | Mailing lists and IRC (https://www.yoctoproject.org/community/mailing-lists/), community calls (https://www.yoctoproject.org/public-virtual-meetings/)        | Governance board (https://www.yoctoproject.org/about/governance/)        | 
   
 - [neo4j](https://community.neo4j.com/)
 
