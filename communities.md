@@ -45,5 +45,5 @@
 
   Code/Web | Discussion | Governance | Other Note(s)
   -------- | ---------- | ---------- | -------------
-  TBD      | TBD        | TBD        | 
+  Github for scm, issues and drivers (https://github.com/neo4j), StackOverflow for technical help (https://stackoverflow.com/questions/tagged/neo4j)     | Community site (https://community.neo4j.com/), Google Group (http://groups.google.com/group/neo4j), Slack (http://neo4j.com/slack), Meetup groups (https://www.meetup.com/Neo4j-Online-Meetup/)        | Permissive CLA (https://neo4j.com/developer/cla), Contribution rules and role-based governance (neo4j admins provide oversight) (https://neo4j.com/developer/contributing-code/), Code style (http://neo4j.github.io/)        | Other resources at GraphAcademy (https://neo4j.com/graphacademy/?ref=open-source) and self-hosted (https://neo4j.com/developer/?ref=open-source). Certification program (https://neo4j.com/graphacademy/neo4j-certification/). Speaker program (https://neo4j.com/speaker-program/). Newsletter (https://neo4j.com/tag/twin4j/)
   
