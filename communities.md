@@ -21,7 +21,7 @@
 
   Code/Web | Discussion | Governance | Other Note(s)
   -------- | ---------- | ---------- | -------------
-  GitHub for scm and issues (https://github.com/riscv/)   | Working Groups & Lists - groups.io (https://lists.riscv.org/g/tech), YouTube videos (https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g), Twitter (https://twitter.com/risc_v), qq messenger (http://v.qq.com/vplus/d209ebe6bde6ab40d5b0b89a1ce27006)       | Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF       | 
+  [GitHub for scm and issues](https://github.com/riscv/)   | Working Groups & Lists - [groups.io](https://lists.riscv.org/g/tech), [YouTube videos](https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g), [Twitter](https://twitter.com/risc_v), [qq messenger](http://v.qq.com/vplus/d209ebe6bde6ab40d5b0b89a1ce27006)       | Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF       | 
   
 - [exercism.io](https://exercism.io/)
 
@@ -33,17 +33,17 @@
 
   Code/Web | Discussion | Governance | Other Note(s)
   -------- | ---------- | ---------- | -------------
-  GitHub for code and issues (https://github.com/deltachat/)| Support forum (https://support.delta.chat/), Freenode for IRC (https://kiwiirc.com/nextclient/#irc://irc.freenode.net/deltachat), Mailing Lists for Discussions (https://lists.codespeak.net/postorius/lists/delta.codespeak.net/)| Governed by Free Software and OSS| 
+  [GitHub for code and issues](https://github.com/deltachat/)| [Support forum](https://support.delta.chat/), [Freenode for IRC](https://kiwiirc.com/nextclient/#irc://irc.freenode.net/deltachat), [Mailing Lists for Discussions](https://lists.codespeak.net/postorius/lists/delta.codespeak.net/)| Governed by Free Software and OSS| 
   
 - [yocto project](https://www.yoctoproject.org/)
 
   Code/Web | Discussion | Governance | Other Note(s)
   -------- | ---------- | ---------- | -------------
-  cgit (https://git.yoctoproject.org/)      | Mailing lists and IRC (https://www.yoctoproject.org/community/mailing-lists/), community calls (https://www.yoctoproject.org/public-virtual-meetings/)        | Governance board (https://www.yoctoproject.org/about/governance/)        | 
+  [cgit](https://git.yoctoproject.org/)      | [Mailing lists and IRC](https://www.yoctoproject.org/community/mailing-lists/), [community calls](https://www.yoctoproject.org/public-virtual-meetings/)        | [Governance board](https://www.yoctoproject.org/about/governance/) with membership process       | 
   
 - [neo4j](https://community.neo4j.com/)
 
   Code/Web | Discussion | Governance | Other Note(s)
   -------- | ---------- | ---------- | -------------
-  Github for scm, issues and drivers (https://github.com/neo4j), StackOverflow for technical help (https://stackoverflow.com/questions/tagged/neo4j)     | Community site (https://community.neo4j.com/), Google Group (http://groups.google.com/group/neo4j), Slack (http://neo4j.com/slack), Meetup groups (https://www.meetup.com/Neo4j-Online-Meetup/)        | Permissive CLA (https://neo4j.com/developer/cla), Contribution rules and role-based governance (neo4j admins provide oversight) (https://neo4j.com/developer/contributing-code/), Code style (http://neo4j.github.io/)        | Other resources at GraphAcademy (https://neo4j.com/graphacademy/?ref=open-source) and self-hosted (https://neo4j.com/developer/?ref=open-source). Certification program (https://neo4j.com/graphacademy/neo4j-certification/). Speaker program (https://neo4j.com/speaker-program/). Newsletter (https://neo4j.com/tag/twin4j/)
+  [Github for scm, issues and drivers](https://github.com/neo4j), [StackOverflow](https://stackoverflow.com/questions/tagged/neo4j)     | [Community site](https://community.neo4j.com/), [Google Group](http://groups.google.com/group/neo4j), [Slack](http://neo4j.com/slack), [Meetup groups](https://www.meetup.com/Neo4j-Online-Meetup/)        | [Permissive CLA](https://neo4j.com/developer/cla), [Contribution rules and role-based governance](https://neo4j.com/developer/contributing-code/) (neo4j admins provide oversight)        | Other resources at [GraphAcademy](https://neo4j.com/graphacademy/?ref=open-source) and [self-hosted](https://neo4j.com/developer/?ref=open-source), [certification program](https://neo4j.com/graphacademy/neo4j-certification/), [speaker program](https://neo4j.com/speaker-program/), [newsletter](https://neo4j.com/tag/twin4j/)
   
