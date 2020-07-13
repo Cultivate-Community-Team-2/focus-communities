@@ -21,7 +21,7 @@
 
   Code/Web | Discussion | Governance | Other Note(s)
   -------- | ---------- | ---------- | -------------
-  GitHub for scm and issus (https://github.com/riscv/)   | Working Groups & Lists - groups.io (https://lists.riscv.org/g/tech), YouTube videos (https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g), Twitter (https://twitter.com/risc_v), qq messenger (http://v.qq.com/vplus/d209ebe6bde6ab40d5b0b89a1ce27006)       | Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF       | 
+  GitHub for scm and issues (https://github.com/riscv/)   | Working Groups & Lists - groups.io (https://lists.riscv.org/g/tech), YouTube videos (https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g), Twitter (https://twitter.com/risc_v), qq messenger (http://v.qq.com/vplus/d209ebe6bde6ab40d5b0b89a1ce27006)       | Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF       | 
   
 - [exercism.io](https://exercism.io/)
 
@@ -33,7 +33,7 @@
 
   Code/Web | Discussion | Governance | Other Note(s)
   -------- | ---------- | ---------- | -------------
-  TBD      | TBD        | TBD        | 
+  GitHub for code and issues (https://github.com/deltachat/)| Support forum (https://support.delta.chat/), Freenode for IRC (https://kiwiirc.com/nextclient/#irc://irc.freenode.net/deltachat), Mailing Lists for Discussions (https://lists.codespeak.net/postorius/lists/delta.codespeak.net/)| Governed by Free Software and OSS| 
   
 - [yocto project](https://www.yoctoproject.org/)
 
