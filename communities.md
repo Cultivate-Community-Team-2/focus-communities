@@ -21,7 +21,7 @@
 
   Code/Web | Discussion | Governance | Other Note(s)
   -------- | ---------- | ---------- | -------------
-  [GitHub for scm and issus] (https://github.com/riscv/)   | [Working Groups & Lists - groups.io] (https://lists.riscv.org/g/tech), [YouTube videos] (https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g), [Twitter] (https://twitter.com/risc_v), [qq messenger] (http://v.qq.com/vplus/d209ebe6bde6ab40d5b0b89a1ce27006)       | [RISC-V is an open source organization guided and run by RISC-V International members. The leadership of the organization is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], [Several admin staff sourced through an arrangement with LF]        | 
+  GitHub for scm and issus (https://github.com/riscv/)   | Working Groups & Lists - groups.io (https://lists.riscv.org/g/tech), YouTube videos (https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g), Twitter (https://twitter.com/risc_v), qq messenger (http://v.qq.com/vplus/d209ebe6bde6ab40d5b0b89a1ce27006)       | Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF       | 
   
 - [exercism.io](https://exercism.io/)
 
