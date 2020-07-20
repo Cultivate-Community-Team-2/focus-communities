@@ -26,11 +26,13 @@
   * [OpenJS Foundation](https://openjsf.org) is a 501(c)(6) that provides certification, hosting, funding, and non-technical governance for Javascript projects.
   * Technical governance is partially by a [Cross Project Council](https://openjsf.org/about/governance/) for requirements applicable to all OpenJS projects and partially by the project itself.
   * Node.js uses a [Consensus Seeking](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) decision making model for internal governance.
-  * The code is maintained by Collaborators, ordained by a [Technical Steering Committee](https://github.com/nodejs/TSC) (TSC).
+  * The code is maintained by Collaborators, with technical direction from a [Technical Steering Committee](https://github.com/nodejs/TSC) (TSC).
 * Key Players
   * OpenJS Foundation [Board of Directors](https://openjsf.org/about/governance/) appoints the Executive Director (currently Robin Ginn).
   * OpenJS [Cross Project Council](https://openjsf.org/about/governance/) provides technical governance across all OpenJS projects.  Current chairperson is Joe Sepi.
   * [Members](https://openjsf.org/about/members/) provide financial support and (at some levels) get a voice on the OpenJSF Board of Directors
+  * List of [TSC members](https://github.com/nodejs/node#tsc-technical-steering-committee).
+  * The [Community Committee](https://github.com/nodejs/community-committee/) focuses on community-facing efforts.
 * Artifacts
   * [Guidelines](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md) for joining the foundation.
   * Extensive [foundation docs](https://github.com/openjs-foundation) defining CPC role, standards, project onboarding, code of conduct, artwork, and more. 
