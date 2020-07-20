@@ -40,14 +40,20 @@
   * A [collaboration guide](https://github.com/nodejs/node/blob/master/doc/guides/collaborator-guide.md)
   * A [certification](https://openjsf.org/certification/) process.
 
-# exercism.io
+# Exercism
 
 * Governance
-  * 
+  * Is governed by an independent not-for-profit [organization](https://exercism.io/about) with a relatively small staff.  They curate a community through roles (mentor, track maintainers, and coders) and documented policies.
 * Key Players
-  * 
+  * [Leadership Team](https://exercism.io/team/staff) includes co-founders Katrina Owen and Jeremy Walker.
+  * [Staff](https://exercism.io/team/staff) manage operations, user experience, open source engagement, and design.
+  * [Maintainers](https://exercism.io/team/maintainers) and [Mentors](https://exercism.io/team/mentors) are extensive, support particular language tracks and distribute community engagement.
 * Artifacts
-  *
+  * [Contributor guide](https://exercism.io/contribute)
+  * [Mentoring guide](https://exercism.io/become-a-mentor)
+  * [Exercism's values](https://exercism.io/values)
+  * [Code of conduct](https://exercism.io/code-of-conduct)
+  
 
 # RiscV
 
