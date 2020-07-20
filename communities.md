@@ -10,11 +10,11 @@
 # FreeBSD
 
 * Governance
-  * [FreeBSD Foundation](https://www.freebsdfoundation.org) supports and promotes FreeBSD, purchases hardware, funds development, advocates at conferences, and legally represents the project.
+  * [FreeBSD Foundation](https://www.freebsdfoundation.org) is a 501(c)(3) that supports and promotes FreeBSD, purchases hardware, funds development, advocates at conferences, and legally represents the project.
   * Technical responsibility is delegated to [Teams](https://www.freebsd.org/administration.html), with the "Core Team" deciding overall goals and direction.  There are over 26 teams.  Every two years the FreeBSD committers select the 9-member FreeBSD Core Team.
 * Key Players
   * FreeBSD Foundation's current president and founder is Justin Gibbs.  Current Executive Director is Deb Goodkin.
-  * Numerous technical key players, primarily the liaisons listed under [administration](https://www.freebsd.org/administration.html).
+  * Numerous technical key players, primarily the Team liaisons listed under [administration](https://www.freebsd.org/administration.html).
 * Artifacts
   * List of [Teams](https://www.freebsd.org/administration.html)
   * [Handbook](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) that documents history, goals, and development model.
@@ -23,11 +23,20 @@
 # node.js
 
 * Governance
-  * 
+  * [OpenJS Foundation](https://openjsf.org) is a 501(c)(6) that provides certification, hosting, funding, and non-technical governance for Javascript projects.
+  * Technical governance is partially by a [Cross Project Council](https://openjsf.org/about/governance/) for requirements applicable to all OpenJS projects and partially by the project itself.
+  * Node.js uses a [Consensus Seeking](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) decision making model for internal governance.
+  * The code is maintained by Collaborators, ordained by a [Technical Steering Committee](https://github.com/nodejs/TSC) (TSC).
 * Key Players
-  * 
+  * OpenJS Foundation [Board of Directors](https://openjsf.org/about/governance/) appoints the Executive Director (currently Robin Ginn).
+  * OpenJS [Cross Project Council](https://openjsf.org/about/governance/) provides technical governance across all OpenJS projects.  Current chairperson is Joe Sepi.
+  * [Members](https://openjsf.org/about/members/) provide financial support and (at some levels) get a voice on the OpenJSF Board of Directors
 * Artifacts
-  *
+  * [Guidelines](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md) for joining the foundation.
+  * Extensive [foundation docs](https://github.com/openjs-foundation) defining CPC role, standards, project onboarding, code of conduct, artwork, and more. 
+  * [TSC documentation](https://github.com/nodejs/TSC)
+  * A [collaboration guide](https://github.com/nodejs/node/blob/master/doc/guides/collaborator-guide.md)
+  * A [certification](https://openjsf.org/certification/) process.
 
 # exercism.io
 
