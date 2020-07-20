@@ -65,7 +65,7 @@
 * Key Players
   * [International Board of Directors & Executive Staff](https://riscv.org/leadership/), current chair Krste Asanovic, current CEO is Calista Redmond.
   * [Ambassadors](https://riscv.org/risc-v-ambassadors/) are individuals passionate about RISC-V that are empowered as community representatives.
-  * [Members](https://riscv.org/members-at-a-glance/) provide financial support and highest levels earn seat on the Board.
+  * [Members](https://riscv.org/members-at-a-glance/) provide financial support and highest levels earn seat on the Board. The Foundation has a multi-tier membership with a limited number of platinum members that can influence the standard. Other members of the RISC-V ecosystem can support the RISC-V Foundation and its associated projects; they can also contribute RISC-V extensions and share their industry knowledge and experience with other ecosystem members.
 * Artifacts
   * [Specification](https://riscv.org/specifications/) documents and certification processes.
 
