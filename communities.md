@@ -7,3 +7,43 @@
   **[exercism.io](https://exercism.io)** | [GitHub](https://github.com/exercism) for code, Appveyer and [Travis](https://travis-ci.org/github/exercism) for CI | [Issues](https://github.com/exercism/discussions) for discussions and [gitter](https://gitter.im/exercism/support) for support | [Path to maintainer](https://exercism.io/become-a-maintainer) and [Leadership](https://exercism.io/team/staff) | [Non-profit org funded by "supporters"](https://exercism.io/about)
   **[RiscV](https://riscv.org/)**                    |    [GitHub for scm and issues](https://github.com/riscv/)   | Working Groups & Lists - [groups.io](https://lists.riscv.org/g/tech), [YouTube videos](https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g), [Twitter](https://twitter.com/risc_v), [qq messenger](http://v.qq.com/vplus/d209ebe6bde6ab40d5b0b89a1ce27006)       | Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF       | 
   
+# FreeBSD
+
+* Governance
+  * [FreeBSD Foundation](https://www.freebsdfoundation.org) supports and promotes FreeBSD, purchases hardware, funds development, advocates at conferences, and legally represents the project.
+  * Technical responsibility is delegated to [Teams](https://www.freebsd.org/administration.html), with the "Core Team" deciding overall goals and direction.  There are over 26 teams.  Every two years the FreeBSD committers select the 9-member FreeBSD Core Team.
+* Key Players
+  * FreeBSD Foundation's current president and founder is Justin Gibbs.  Current Executive Director is Deb Goodkin.
+  * Numerous technical key players, primarily the liaisons listed under [administration](https://www.freebsd.org/administration.html).
+* Artifacts
+  * List of [Teams](https://www.freebsd.org/administration.html)
+  * [Handbook](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) that documents history, goals, and development model.
+  * Extensive list of [other artifacts](https://www.freebsdfoundation.org/about/resources/) maintained by the FreeBSD Foundation.
+
+# node.js
+
+* Governance
+  * 
+* Key Players
+  * 
+* Artifacts
+  *
+
+# exercism.io
+
+* Governance
+  * 
+* Key Players
+  * 
+* Artifacts
+  *
+
+# RiscV
+
+* Governance
+  * 
+* Key Players
+  * 
+* Artifacts
+  *
+
