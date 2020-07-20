@@ -58,9 +58,11 @@
 # RiscV
 
 * Governance
-  * 
+  * Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF.
 * Key Players
-  * 
+  * [International Board of Directors & Executive Staff](https://riscv.org/leadership/), current chair Krste Asanovic, current CEO is Calista Redmond.
+  * [Ambassadors](https://riscv.org/risc-v-ambassadors/) are individuals passionate about RISC-V that are empowered as community representatives.
+  * [Members](https://riscv.org/members-at-a-glance/) provide financial support and highest levels earn seat on the Board.
 * Artifacts
-  *
+  * [Specification](https://riscv.org/specifications/) documents and certification processes.
 
