@@ -62,6 +62,7 @@
   * The RISC-V Foundation actively promotes use of a single repository and a compliance verification tool. Its rules of governance support the development of a growing and active ecosystem.
   * The RISC-V Foundation protects the ISA using a trademark and guarantees compatibility within the development community.
   * The RISC-V Foundation is creating certification schemes for individuals working with RISC-V and compliance tools so users can claim their processor is a RISC-V processor.
+  * RISC-V Foundation has established clear reciprocal obligations for members that contribute to the design of the core architecture. To become a foundation member, organizations must agree that they will not sue each other on the core instructions; if they do, the RISC-V Foundation will sanction them, and they will lose their right to use the core instructions.
 * Key Players
   * [International Board of Directors & Executive Staff](https://riscv.org/leadership/), current chair Krste Asanovic, current CEO is Calista Redmond.
   * [Ambassadors](https://riscv.org/risc-v-ambassadors/) are individuals passionate about RISC-V that are empowered as community representatives.
