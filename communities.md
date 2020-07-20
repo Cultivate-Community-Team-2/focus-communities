@@ -61,6 +61,7 @@
   * Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF.
   * The RISC-V Foundation actively promotes use of a single repository and a compliance verification tool. Its rules of governance support the development of a growing and active ecosystem.
   * The RISC-V Foundation protects the ISA using a trademark and guarantees compatibility within the development community.
+  * The RISC-V Foundation is creating certification schemes for individuals working with RISC-V and compliance tools so users can claim their processor is a RISC-V processor.
 * Key Players
   * [International Board of Directors & Executive Staff](https://riscv.org/leadership/), current chair Krste Asanovic, current CEO is Calista Redmond.
   * [Ambassadors](https://riscv.org/risc-v-ambassadors/) are individuals passionate about RISC-V that are empowered as community representatives.
