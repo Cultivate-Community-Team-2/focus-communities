@@ -9,22 +9,22 @@
 
   Project Website | Code & Web Artifacts | Community Interaction | License
   --------------- | -------------------- | --------------------- | -------
-  **[FreeBSD](https://www.freebsd.org/)**            |    [SVN (self-hosted)](https://svn.FreeBSD.org), [Bugzilla for issues](https://bugs.freebsd.org/bugzilla/), [Phabricator for code review](https://reviews.freebsd.org), [Jenkins for CI](https://ci.freebsd.org), website self-hosted | [Mailman mailing lists](https://lists.freebsd.org/mailman/listinfo), [IRC (multiple networks)](https://wiki.freebsd.org/IRC/Channels), [Moinmoin wiki](https://wiki.freebsd.org) | [FreeBSD License](https://www.freebsd.org/copyright/freebsd-license.html) is 2-clause BSD
-  **[NodeJS](https://nodejs.org/en/)** | [GitHub](https://github.com/nodejs) for code, bugs, issues, and CI | [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ), [Twitter](https://twitter.com/nodejs), [Freenode IRC](https://webchat.freenode.net/#node.js), [Medium](https://medium.com/the-node-js-collection) for publications, [Slack](https://www.nodeslackers.com/) | [Node.js license](https://github.com/nodejs/node/blob/master/LICENSE) is MIT
-  **[Exercism](https://exercism.io)** | [GitHub](https://github.com/exercism) for code, Appveyer and [Travis](https://travis-ci.org/github/exercism) for CI | [Issues](https://github.com/exercism/discussions) for discussions and [gitter](https://gitter.im/exercism/support) for support | [Exercism license](https://exercism.io/privacy) uses CC and [MIT](https://github.com/exercism/v3/blob/master/LICENSE.md)
-  **[RiscV](https://riscv.org/)**                    |    [GitHub for scm and issues](https://github.com/riscv/)   | Working Groups & Lists - [groups.io](https://lists.riscv.org/g/tech), [YouTube videos](https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g), [Twitter](https://twitter.com/risc_v), [qq messenger](http://v.qq.com/vplus/d209ebe6bde6ab40d5b0b89a1ce27006)  | Uses a [variety](https://github.com/riscv/riscv-software-list) of licenses for different software.  Uses CC-BY for specification.
+  **[FreeBSD](https://www.freebsd.org/)**         |    [SVN (self-hosted)](https://svn.FreeBSD.org), [Bugzilla for issues](https://bugs.freebsd.org/bugzilla/), [Phabricator for code review](https://reviews.freebsd.org), [Jenkins for CI](https://ci.freebsd.org), website self-hosted   |   [Mailman mailing lists](https://lists.freebsd.org/mailman/listinfo), [IRC (multiple networks)](https://wiki.freebsd.org/IRC/Channels), [Moinmoin wiki](https://wiki.freebsd.org)   |   [FreeBSD License](https://www.freebsd.org/copyright/freebsd-license.html) is 2-clause BSD
+  **[NodeJS](https://nodejs.org/en/)**            |    [GitHub](https://github.com/nodejs) for code, bugs, issues, and CI   |   [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ), [Twitter](https://twitter.com/nodejs), [Freenode IRC](https://webchat.freenode.net/#node.js), [Medium](https://medium.com/the-node-js-collection) for publications, [Slack](https://www.nodeslackers.com/)   |   [Node.js license](https://github.com/nodejs/node/blob/master/LICENSE) is MIT
+  **[Exercism](https://exercism.io)**             |    [GitHub](https://github.com/exercism) for code, Appveyer and [Travis](https://travis-ci.org/github/exercism) for CI   |   [Issues](https://github.com/exercism/discussions) for discussions and [gitter](https://gitter.im/exercism/support) for support   |   [Exercism license](https://exercism.io/privacy) uses CC and [MIT](https://github.com/exercism/v3/blob/master/LICENSE.md)
+  **[RiscV](https://riscv.org/)**                 |    [GitHub for scm and issues](https://github.com/riscv/)   |   Working Groups & Lists - [groups.io](https://lists.riscv.org/g/tech), [YouTube videos](https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g), [Twitter](https://twitter.com/risc_v), [qq messenger](http://v.qq.com/vplus/d209ebe6bde6ab40d5b0b89a1ce27006)   |   Uses a [variety](https://github.com/riscv/riscv-software-list) of licenses for different software.  Uses CC-BY for specification.
 
 # Governance
 
 ## FreeBSD
 
-* Governance
+* Non-technical & Technical Governance
   * [FreeBSD Foundation](https://www.freebsdfoundation.org) is a 501(c)(3) that supports and promotes FreeBSD, purchases hardware, funds development, advocates at conferences, and legally represents the project.
   * Technical responsibility is delegated to [Teams](https://www.freebsd.org/administration.html), with the "[FreeBSD Core Team](https://en.wikipedia.org/wiki/FreeBSD#Governance_structure)" deciding overall goals and direction.  There are over 26 teams.  Every two years the FreeBSD committers select the 9-member FreeBSD Core Team.
 * Key Players
   * FreeBSD Foundation's current president and founder is Justin Gibbs.  Current Executive Director is Deb Goodkin.
   * Numerous technical key players, primarily the Team liaisons listed under [administration](https://www.freebsd.org/administration.html).
-* Artifacts
+* Governance Artifacts
   * List of [Teams](https://www.freebsd.org/administration.html)
   * [Handbook](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) that documents history, goals, and development model.
   * Extensive list of [other artifacts](https://www.freebsdfoundation.org/about/resources/) maintained by the FreeBSD Foundation.
@@ -32,7 +32,7 @@
 
 ## node.js
 
-* Governance
+* Non-technical & Technical Governance
   * [Project Governance](https://nodejs.org/en/about/governance/)
   * [OpenJS Foundation](https://openjsf.org) is a 501(c)(6) that provides certification, hosting, funding, and non-technical governance for Javascript projects.
   * Technical governance: partially by a [Cross Project Council](https://openjsf.org/about/governance/) for requirements applicable to all OpenJS projects and partially by the project itself.
@@ -44,7 +44,7 @@
   * OpenJS [Cross Project Council](https://openjsf.org/about/governance/) provides technical governance across all OpenJS projects.  Current chairperson is Joe Sepi.
   * [Members](https://openjsf.org/about/members/) provide financial support and (at some levels) get a voice on the OpenJSF Board of Directors
   * List of [TSC members](https://github.com/nodejs/node#tsc-technical-steering-committee).
-* Artifacts
+* Governance Artifacts
   * [Guidelines](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md) for joining the foundation.
   * Extensive [foundation docs](https://github.com/openjs-foundation) defining CPC role, standards, project onboarding, code of conduct, artwork, and more. 
   * [TSC documentation](https://github.com/nodejs/TSC)
@@ -53,7 +53,7 @@
   
 ## Exercism
 
-* Governance
+* Non-technical & Technical Governance
   * Is governed by an independent not-for-profit [organization](https://exercism.io/about) with a relatively small staff.  They curate a community of supporters through roles (mentor, track maintainers, and coders) and documented policies.
   * Company [Leadership](https://exercism.io/team/staff)
   * [Path to maintainer](https://exercism.io/become-a-maintainer)
@@ -61,7 +61,7 @@
   * [Leadership Team](https://exercism.io/team/staff) includes co-founders Katrina Owen and Jeremy Walker.
   * [Staff](https://exercism.io/team/staff) manage operations, user experience, open source engagement, and design.
   * [Maintainers](https://exercism.io/team/maintainers) and [Mentors](https://exercism.io/team/mentors) are extensive, support particular language tracks and distribute community engagement.
-* Artifacts
+* Governance Artifacts
   * [Contributor guide](https://exercism.io/contribute)
   * [Mentoring guide](https://exercism.io/become-a-mentor)
   * [Exercism's values](https://exercism.io/values)
@@ -70,7 +70,7 @@
 
 ## RiscV
 
-* Governance
+* Non-technical & Technical Governance
   * Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF.
   * The RISC-V Foundation actively promotes use of a single repository and a compliance verification tool. Its rules of governance support the development of a growing and active ecosystem.
   * The RISC-V Foundation protects the ISA using a trademark and guarantees compatibility within the development community.
@@ -84,5 +84,5 @@
   * RISC-V Technical Task Group Chairs
   * Japan community special interest group
   * China Advisory Committee
-* Artifacts
+* Governance Artifacts
   * [Specification](https://riscv.org/specifications/) documents and certification processes.
