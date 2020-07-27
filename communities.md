@@ -18,7 +18,7 @@
 
 ## FreeBSD
 * Mission
-  * The FreeBSD Project's mission can be found at this (link)[https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/history.html#:~:text=We%20believe%20that%20our%20first,provides%20the%20widest%20possible%20benefit.]
+  * The FreeBSD Project's mission can be found at this [webpage](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/history.html#:~:text=We%20believe%20that%20our%20first,provides%20the%20widest%20possible%20benefit.)
 * Non-technical & Technical Governance
   * [FreeBSD Foundation](https://www.freebsdfoundation.org) is a 501(c)(3) that supports and promotes FreeBSD, purchases hardware, funds development, advocates at conferences, and legally represents the project.
   * Technical responsibility is delegated to [Teams](https://www.freebsd.org/administration.html), with the "[FreeBSD Core Team](https://en.wikipedia.org/wiki/FreeBSD#Governance_structure)" deciding overall goals and direction.  There are over 26 teams.  Every two years the FreeBSD committers select the 9-member FreeBSD Core Team.
