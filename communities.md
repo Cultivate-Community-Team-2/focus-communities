@@ -17,7 +17,8 @@
 # Governance
 
 ## FreeBSD
-
+* Mission
+  * The FreeBSD Project's mission can be found at this (link)[https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/history.html#:~:text=We%20believe%20that%20our%20first,provides%20the%20widest%20possible%20benefit.]
 * Non-technical & Technical Governance
   * [FreeBSD Foundation](https://www.freebsdfoundation.org) is a 501(c)(3) that supports and promotes FreeBSD, purchases hardware, funds development, advocates at conferences, and legally represents the project.
   * Technical responsibility is delegated to [Teams](https://www.freebsd.org/administration.html), with the "[FreeBSD Core Team](https://en.wikipedia.org/wiki/FreeBSD#Governance_structure)" deciding overall goals and direction.  There are over 26 teams.  Every two years the FreeBSD committers select the 9-member FreeBSD Core Team.
@@ -32,6 +33,9 @@
 
 ## node.js
 
+* Mission
+  * More details on node.js project at their [website](https://nodejs.org/en/about/)
+  * More details on openJS foundation at their [website](https://openjsf.org/about/)
 * Non-technical & Technical Governance
   * [Project Governance](https://nodejs.org/en/about/governance/)
   * [OpenJS Foundation](https://openjsf.org) is a 501(c)(6) that provides certification, hosting, funding, and non-technical governance for Javascript projects.
@@ -53,6 +57,8 @@
   
 ## Exercism
 
+* Mission
+  * Exercism is a community around building coding skills categorized by language. Members can be both contributors and consumers of the shared works. More info available on their [website](https://exercism.io/about)
 * Non-technical & Technical Governance
   * Is governed by an independent not-for-profit [organization](https://exercism.io/about) with a relatively small staff.  They curate a community of supporters through roles (mentor, track maintainers, and coders) and documented policies.
   * Company [Leadership](https://exercism.io/team/staff)
@@ -70,6 +76,8 @@
 
 ## RiscV
 
+* Mission
+  * RiscV is interesting in that it doesn't seem to as explicitly as other groups set a vision and mission. It does however elaborate on its history on this [webpage](https://riscv.org/risc-v-history/)
 * Non-technical & Technical Governance
   * Leadership is through elected and delegated individuals serving on the RISC-V Board of Directors and the RISC-V Technical Steering Committee (TSC).], Several admin staff sourced through an arrangement with LF.
   * The RISC-V Foundation actively promotes use of a single repository and a compliance verification tool. Its rules of governance support the development of a growing and active ecosystem.
