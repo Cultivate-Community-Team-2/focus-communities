@@ -38,7 +38,7 @@
   * More details on openJS foundation at their [website](https://openjsf.org/about/)
 * Non-technical & Technical Governance
   * [Project Governance](https://nodejs.org/en/about/governance/)
-  * [OpenJS Foundation](https://openjsf.org) is a 501(c)(6) that provides certification, hosting, funding, and non-technical governance for Javascript projects.
+  * [OpenJS Foundation](https://openjsf.org) is a 501(c)(6) that provides certification, hosting, funding, and non-technical governance for Javascript projects.  Node.js Foundation and JS Foundation Merge to Form OpenJS Foundation (https://www.linuxfoundation.org/press-release/2019/03/node-js-foundation-and-js-foundation-merge-to-form-openjs-foundation/)
   * Technical governance: partially by a [Cross Project Council](https://openjsf.org/about/governance/) for requirements applicable to all OpenJS projects and partially by the project itself.
   * Node.js uses a [Consensus Seeking](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) decision making model for internal governance.
   * The code is maintained by Collaborators, with technical direction from a [Technical Steering Committee](https://github.com/nodejs/TSC) (TSC).
