@@ -1,4 +1,4 @@
-# Pattterns in Open Source Communities
+# Patterns in Open Source Communities
 
 ## Goal
 Across all teams, identify and describe patterns in open source communities.
