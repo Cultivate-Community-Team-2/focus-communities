@@ -10,4 +10,4 @@ Across all teams, identify and describe patterns in open source communities.
 ## Patterns
 | Pattern | Description | Communities exhibiting the pattern |
 | :-----: | :-----:     | :-----:                            |
-|  |  |  |
+| Separation of leadership | It has been observed that in several communities there is a distinction made between those who are responsible for technical direction and those who are responsible for community guidelines, legal, financial, etc.  | FreeBSD (FreeBSD Foundation vs Technical Core and sub teams), node.js (OpenJS Foundation vs Cross Project Council & Technical Steering Committee), Exercism.io (Staff vs maintainers), RiscV (Board of Directors vs Technical Steering Commmittee) |
